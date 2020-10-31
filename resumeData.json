@@ -1,0 +1,88 @@
+{
+    "main": {
+        "name": "Justin Williams",
+        "description": "Full-Stack Web Developer",
+        "image": "profilepic.jpg",
+        "bio": "I am a Full-Stack web developer with over ten years of experience in primary and secondary education. Recently, I completed a full stack development program form the University of Richmond, and am up to date on the newest trends in JavaScript, MERN, and responsive web design. As an educator, I also pride myself on giving dynamic, engaging, presentations that effectively communicate technical concepts to a variety of audiences. My latest project was a PWA for summer camp staff in locations that lack ideal mobile connectivity. I am eager to use my experience as a teacher and my passion for programming to make your business more appealing to our user.",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "justin.williams2@me.com",
+        "phone": "314-917-7048",
+        "github": "https://github.com/justinwilliamsrva",
+        "project": "https://www.linkedin.com/in/justinwilliamsrva/",
+
+        "website": "http://www.timbakerdev.com",
+        "resumedownload": "http://timbakerdev.com",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/justinwilliamsrva//",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/nordicgiant2/react-nice-resume",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "education": [
+            {
+                "school": "University of Richmond",
+                "degree": "Certificate of Completion, Full-Stack Web Development",
+                "graduated": "November 2020",
+                "description": "An intense 24-week program that weaves theory and application of web development from start to finish - full stack. Languages include: HTML, CSS3, Bootstrap, Responsive Design, JavaScript, jQuery, API, AJAX, Firebase, Java, Express.js, React.js, Node.js, Handlebars, Database Theory, Bookshelf.js, MongoDB, MySQL, Command Line, and Git."
+            },
+            {
+                "school": "Virginia Commonwealth University",
+                "degree": "Bachelor of Arts - Music Education",
+                "graduated": "May 2011",
+                "description": "Focused on classes in Violin, Theory and Keyboard Skills. "
+
+            }
+        ],
+        "work": [
+            {
+                "company": "Chesterfield County Public Schools",
+                "title": "High School Orchestra Director",
+                "years": "June 2016 - Present",
+                "description": "Teach a full schedule of String Orchestra, Piano and AP Music Theory at Clover Hill High School"
+            },
+            {
+                "company": "Immanuel Episcopal Church",
+                "title": "Music Director and Organist ",
+                "years": "January 2019 - Present",
+                "description": "Conduct Choir, Provide Service Music on Organ and Piano, Arrange music for special Sunday's"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Summer Camp App",
+                "image": "canadian-wanderlust.jpg",
+                "url": "https://summmercampstaffapp.herokuapp.com/"
+            },
+            {
+                "title": "Violin Central",
+                "image": "violinCentral.jpg",
+                "url": "https://violin-central.herokuapp.com/"
+            },
+            {
+                "title": "CHHS Orchestra",
+                "image": "cavorch.jpg",
+                "url": "cavorch.org"
+            },
+            {
+                "title": "Spirited Scenery",
+                "image": "spirited-scenery.jpg",
+                "url": "https://joshhallrva.github.io/Spirited-Scenery/"
+            },
+            {
+                "title": "Judge Judy Bingo",
+                "image": "judge-judy-bingo.jpg",
+                "url": "https://justinwilliamsrva.github.io/judgejudybingo/"
+            }
+        ]
+    }
+}
